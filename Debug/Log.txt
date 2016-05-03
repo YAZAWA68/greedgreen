@@ -1,0 +1,112 @@
+1:システムの情報を出力します
+6:	ＤＸライブラリ Ver3.11 
+10:	論理プロセッサの数 : 8
+14:	ＯＳ  Windows8 ( Build 9200  )
+119:	ＣＰＵ動作速度：大体2.17GHz
+121:	ＭＭＸ命令を使用します
+122:	ＳＳＥ命令が使用可能です
+123:	ＳＳＥ２命令が使用可能です
+125:	ＣＰＵベンダ：GenuineIntel
+131:	ＣＰＵ名：      Intel(R) Core(TM) i7-3632QM CPU @ 2.20GHz
+132:ＣＯＭの初期化... 成功しました
+146:メモリ総量:8052.47MB  空きメモリ領域:5594.96MB 
+148:タイマーの精度を検査します
+149:精度結果 更新回数 マルチメディアタイマー：0  パフォーマンスカウンター：60
+150: パフォーマンスカウンターを使用します タイマー精度 : 2143.577000 KHz 
+153: ソフトの二重起動検査... 二重起動はされていませんでした
+157:ウインドウクラスを登録します... 登録に成功しました
+160:ウインドウモード起動用のウインドウを作成します
+164:ウインドウの作成に成功しました
+165:ウインドウを表示します
+202:ＩＭＥを無効にしました
+208:ウインドウスタイルをウインドウモード用に変更します... 完了
+232:DirectInput関係初期化処理
+234:	XInput DLL の読み込み中... 成功
+238:	DirectInput7 の取得中... 成功
+356:		引き続き初期化処理... 初期化成功
+362:	ジョイパッドの初期化... 
+373:	ジョイパッドの初期化は正常に終了しました
+375:	マウスデバイスの初期化... 初期化成功
+378:	キーボードデバイスの初期化... 初期化成功
+383:DirectInput 関連の初期化は正常に終了しました
+385:XAudio2 の初期化を行います
+389:	XAudio2_8.dll を使用します
+390:	XAudio2 インターフェースの取得と初期化を行います....  成功 Ver2.8
+427:XAudio2 の初期化は正常に終了しました
+432:DirectDraw オブジェクトの取得を行います....  成功
+439:引き続き初期化処理... 初期化に成功しました
+454:IDirect3D9Ex オブジェクトを取得します.... 成功
+459:IDirect3DDevice9Ex オブジェクトを取得します.... ハードウエア頂点演算を使用します
+734:成功
+735:Driver:igdumdim32.dll  Description:Intel(R) HD Graphics 4000
+737:画面のフォーマットは D3DFMT_X8R8G8B8 です
+738:16bit Zバッファフォーマットは D3DFMT_D16 です
+739:24bit Zバッファフォーマットは D3DFMT_D24X8 です
+741:32bit Zバッファフォーマットは D3DFMT_D24X8 です
+742:16bit カラーフォーマットは D3DFMT_R5G6B5 です
+743:32bit カラーフォーマットは D3DFMT_X8R8G8B8 です
+745:アルファ付き 16bit カラーフォーマットは D3DFMT_A4R4G4B4 です
+746:アルファ付き 32bit カラーフォーマットは D3DFMT_A8R8G8B8 です
+747:アルファテスト用 16bit カラーフォーマットは D3DFMT_A1R5G5B5 です
+748:アルファテスト用 32bit カラーフォーマットは D3DFMT_A8R8G8B8 です
+750:ＤＸＴ１テクスチャフォーマットはD3DFMT_DXT1 です
+751:ＤＸＴ２テクスチャフォーマットはD3DFMT_DXT2 です
+753:ＤＸＴ３テクスチャフォーマットはD3DFMT_DXT3 です
+754:ＤＸＴ４テクスチャフォーマットはD3DFMT_DXT4 です
+756:ＤＸＴ５テクスチャフォーマットはD3DFMT_DXT5 です
+757:描画用 16bit カラーフォーマットは D3DFMT_R5G6B5 です
+758:描画用 32bit カラーフォーマットは D3DFMT_X8R8G8B8 です
+760:描画用アルファ付き 32bit カラーフォーマットは D3DFMT_A8R8G8B8 です
+761:描画用ABGR整数16ビット型カラーフォーマットは D3DFMT_A16B16G16R16 です
+763:描画用ABGR浮動小数点16ビット型カラーフォーマットは D3DFMT_A16B16G16R16F です
+764:描画用ABGR浮動小数点32ビット型カラーフォーマットは D3DFMT_A32B32G32R32F です
+765:描画用１チャンネル整数8ビット型カラーフォーマットは D3DFMT_L8 です
+767:描画用１チャンネル整数16ビット型カラーフォーマットは D3DFMT_L16 です
+768:描画用１チャンネル浮動小数点16ビット型カラーフォーマットは D3DFMT_R16F です
+770:描画用１チャンネル浮動小数点32ビット型カラーフォーマットは D3DFMT_R32F です
+772:描画用２チャンネル整数8ビット型カラーフォーマットは D3DFMT_A8B8G8R8 です
+772:描画用２チャンネル整数16ビット型カラーフォーマットは D3DFMT_G16R16 です
+773:描画用２チャンネル浮動小数点16ビット型カラーフォーマットは D3DFMT_G16R16F です
+776:描画用２チャンネル浮動小数点32ビット型カラーフォーマットは D3DFMT_G32R32F です
+776:一度に描画できるプリミティブの最大数:8388607
+778:対応している最大頂点インデックス:16777215
+779:同時にレンダリングできるバッファの数:4
+781:最大テクスチャサイズ　幅:8192 高さ:8192
+782:テクスチャステージテンポラリレジスタ：使用可
+783:減算合成のハードウェア対応：ネイティブ
+785:ハードウェア頂点シェーダーバージョンコード：300
+786:エミュレーション頂点シェーダーバージョンコード：エミュレーション無し
+787:ピクセルシェーダーバージョンコード：300
+823:バックバッファロック転送の時間:3785nsec  一時的な描画可能バッファを使用した転送の時間:4730nsec
+824:バックバッファロックを使用します
+826:Ｚバッファを作成します.... 成功
+1332:プログラマブルシェーダーを使用します
+
+1477:フォントの初期化を行います
+1480:フォントの初期化は正常に終了しました
+1501:文字コードバッファの初期化を行います... 完了しました
+1529:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\back.png がありません
+1540:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\how.png がありません
+1552:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\stf.png がありません
+1564:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\stt.png がありません
+1575:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\howf.png がありません
+1587:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\howt.png がありません
+1599:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\arrL.png がありません
+1611:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\arrR.png がありません
+1666:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\arrL2.png がありません
+1679:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\arrR2.png がありません
+1691:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\backf.png がありません
+1703:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\backt.png がありません
+1715:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\ques1.png がありません
+1728:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\ques2.png がありません
+1740:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\ques3.png がありません
+1753:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\quest.png がありません
+1765:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\cle.png がありません
+1778:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\timer.png がありません
+1790:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\counter.png がありません
+1802:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\exitf.png がありません
+1815:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\exitt.png がありません
+1827:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\gre.png がありません
+1839:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\whi.png がありません
+1852:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\wal.png がありません
+1865:画像ファイル C:\Users\takuya_2\Desktop\GreedGreen\Debug\gazoman\sel.png がありません
